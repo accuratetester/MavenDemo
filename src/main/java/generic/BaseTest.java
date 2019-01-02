@@ -22,6 +22,7 @@ public class BaseTest implements AutoConstant
      }
      
      public WebDriver driver;
+     //uncomment this line
      //@Parameters({"nodeurl","appurl","browser"})
      @BeforeMethod
      //uncomment this whenexecuting scripts from testng in eclipse
